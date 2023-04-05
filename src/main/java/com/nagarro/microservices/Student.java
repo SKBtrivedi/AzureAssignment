@@ -40,10 +40,6 @@ public class Student {
 		this.name = name;
 		this.roll = roll;
 	}
-	public Student() {
-		super();
-		// TODO Auto-generated constructor stub
-	}
 	
 	
 	
